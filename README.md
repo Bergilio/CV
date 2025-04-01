@@ -1,5 +1,4 @@
-# CV
-# Pedro Salgado - CV
+# Pedro Salgado - CV (en)
 
 📄 [Download My CV (PDF)](https://github.com/Bergilio/CV/raw/master/PedroSalgadoCV.pdf)
 
