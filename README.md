@@ -3,7 +3,7 @@
 
 📄 [Download My CV (PDF)](https://github.com/Bergilio/CV/raw/master/PedroSalgadoCV.pdf)
 
-🌍 [View Online CV](https://bergilio.github.io/CV/)
+🌍 [View Online CV](https://Bergilio.github.io/CV/)
 
 ## Contact
 📧 [pedrosalgado7704@gmail.com](mailto:pedrosalgado7704@gmail.com)  
